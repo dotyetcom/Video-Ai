@@ -1,0 +1,8 @@
+{
+  "name": "KinoFrame",
+  "description": "Direct, animate, and export custom motion videos from text prompts and reference frames.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
